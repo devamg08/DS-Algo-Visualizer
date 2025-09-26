@@ -198,4 +198,33 @@
 2. [NP-Complete](https://jhabarsingh.github.io/DSALGO-VISUALIZER/templates/np_hard.html)
 
 
+## <a href="https://medium.com/mindsdb/contributing-to-an-open-source-project-how-to-get-started-6ba812301738">How To Contribure</a>
+> When I thought of commencing this project the first doubt that came to mind was that Should I use Javascript Framework (REACT) or Vanilla Js To create this project and finally I decided to use Vanilla Js and the reason I came to this conclusion was that I wanted to keep this project simple so that more and more people could contribute and learn from it.
 
+### You can contribute to this project in many ways
+ 1. You can create an issue if you find any bug.
+ 2. You can work on an existing issue and Send PR.
+ 3. You can add another data structure or Algorithm to the existing project and Send a PR.
+ 4. Even if you find any grammatical or spelling mistake then also you can create an issue.
+
+> *I would be glad to see a notification saying `User {xyz} created a Pull Request`.
+I promise to review it.*
+
+## Contributors ✨
+
+Thanks goes to these wonderful people
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/aditya28sarin"><img src="https://avatars.githubusercontent.com/u/48805315?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aditya Sarin</b></sub></a><br /><a href="https://github.com/jhabarsingh/DSALGO-VISUALIZER/commits?author=aditya28sarin" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/SwampDolphin97"><img src="https://avatars.githubusercontent.com/u/27912312?v=4?s=100" width="100px;" alt=""/><br /><sub><b>XHunter</b></sub></a><br /><a href="https://github.com/jhabarsingh/DSALGO-VISUALIZER/commits?author=SwampDolphin97" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
