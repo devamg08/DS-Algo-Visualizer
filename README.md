@@ -18,6 +18,9 @@ This project is designed to make learning DSA fun, intuitive, and engaging. ✨
 
 ## 📸 Screenshots / Demo
 <img width="1891" height="870" alt="image" src="https://github.com/user-attachments/assets/cbdc3136-2943-481e-bb0a-3a6c09921b5b" />
+
+<img width="1900" height="872" alt="image" src="https://github.com/user-attachments/assets/99ba6481-e0f8-47bd-a2db-15d44c28d31d" />
   
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/723d64c6-61c9-4cb2-848a-0c837ade24c6" />
 
 
