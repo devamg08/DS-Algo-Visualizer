@@ -17,6 +17,7 @@ This project is designed to make learning DSA fun, intuitive, and engaging. ✨
 
 
 ## 📸 Screenshots / Demo
-*(Add your app screenshots or a demo video/GIF here)*  
+<img width="1891" height="870" alt="image" src="https://github.com/user-attachments/assets/cbdc3136-2943-481e-bb0a-3a6c09921b5b" />
+  
 
 
